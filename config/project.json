@@ -1,0 +1,42 @@
+{
+  "project": {
+    "name": "Rynek Marketingowy - Badania Kosmetyków Europa Środkowa",
+    "version": "1.0.0",
+    "description": "Comprehensive market research of cosmetics markets in Central Europe",
+    "regions": ["Central Europe", "Eastern Europe"],
+    "languages": ["pl", "en", "sk", "cs", "ro", "hu"]
+  },
+  "research_scope": {
+    "countries": 5,
+    "time_horizon": "2024-2027",
+    "update_frequency": "quarterly",
+    "data_sources": ["primary", "secondary", "social_media", "expert_interviews"]
+  },
+  "deliverables": {
+    "country_reports": {
+      "format": "markdown",
+      "sections": ["market_size", "demand_analysis", "trends", "competitive_landscape"],
+      "languages": ["pl", "en"]
+    },
+    "regional_analysis": {
+      "comparative_study": true,
+      "benchmarking": true,
+      "forecasting": true
+    },
+    "data_collection": {
+      "templates": true,
+      "surveys": true,
+      "interview_guides": true
+    }
+  },
+  "stakeholders": {
+    "target_audience": ["beauty_brands", "investors", "market_analysts", "retailers"],
+    "geographic_focus": ["poland", "slovakia", "czech_republic", "romania", "hungary"]
+  },
+  "quality_assurance": {
+    "data_validation": true,
+    "methodology_review": true,
+    "expert_validation": true,
+    "regular_updates": true
+  }
+}

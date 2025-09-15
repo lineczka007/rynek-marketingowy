@@ -1,0 +1,54 @@
+{
+  "research_framework": {
+    "market_size": {
+      "metrics": [
+        "total_market_value",
+        "market_volume_units",
+        "growth_rate_yoy",
+        "market_share_by_segment",
+        "import_export_data"
+      ],
+      "segments": [
+        "skincare",
+        "makeup",
+        "haircare",
+        "fragrances",
+        "natural_organic",
+        "luxury",
+        "mass_market"
+      ]
+    },
+    "market_demand": {
+      "factors": [
+        "consumer_preferences",
+        "purchasing_power",
+        "distribution_channels",
+        "brand_awareness",
+        "seasonal_patterns"
+      ],
+      "demographics": [
+        "age_groups",
+        "gender_distribution",
+        "income_levels",
+        "urban_rural_split",
+        "education_levels"
+      ]
+    },
+    "market_trends": {
+      "categories": [
+        "product_innovation",
+        "sustainability",
+        "digitalization",
+        "personalization",
+        "wellness_focus"
+      ],
+      "timeframe": "2020-2025",
+      "data_sources": [
+        "industry_reports",
+        "consumer_surveys",
+        "social_media_analysis",
+        "expert_interviews"
+      ]
+    }
+  }
+}

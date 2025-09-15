@@ -1,0 +1,43 @@
+# Temporary files
+/tmp/
+*.tmp
+*.temp
+
+# Data processing files
+*.csv~
+*.xlsx~
+.~*
+
+# System files
+.DS_Store
+Thumbs.db
+
+# IDE and editor files
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Build and dist
+/dist/
+/build/
+/out/
+
+# Dependencies
+node_modules/
+venv/
+env/
+.env
+
+# Logs
+*.log
+logs/
+
+# Cache
+.cache/
+*.cache
+
+# Personal notes (not for sharing)
+personal_notes/
+draft_*/
