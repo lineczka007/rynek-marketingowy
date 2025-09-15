@@ -1,0 +1,69 @@
+{
+  "countries": {
+    "poland": {
+      "name": "Polska",
+      "code": "PL",
+      "currency": "PLN",
+      "population": 38000000,
+      "gdp_per_capita": 15420,
+      "language": "pl",
+      "market_characteristics": {
+        "market_maturity": "high",
+        "cosmetics_penetration": "85%",
+        "premium_segment_share": "25%"
+      }
+    },
+    "slovakia": {
+      "name": "Słowacja",
+      "code": "SK",
+      "currency": "EUR",
+      "population": 5450000,
+      "gdp_per_capita": 19730,
+      "language": "sk",
+      "market_characteristics": {
+        "market_maturity": "medium",
+        "cosmetics_penetration": "78%",
+        "premium_segment_share": "20%"
+      }
+    },
+    "czech_republic": {
+      "name": "Czechy",
+      "code": "CZ",
+      "currency": "CZK",
+      "population": 10700000,
+      "gdp_per_capita": 23290,
+      "language": "cs",
+      "market_characteristics": {
+        "market_maturity": "high",
+        "cosmetics_penetration": "82%",
+        "premium_segment_share": "28%"
+      }
+    },
+    "romania": {
+      "name": "Rumunia",
+      "code": "RO",
+      "currency": "RON",
+      "population": 19120000,
+      "gdp_per_capita": 12300,
+      "language": "ro",
+      "market_characteristics": {
+        "market_maturity": "medium",
+        "cosmetics_penetration": "70%",
+        "premium_segment_share": "15%"
+      }
+    },
+    "hungary": {
+      "name": "Węgry",
+      "code": "HU",
+      "currency": "HUF",
+      "population": 9750000,
+      "gdp_per_capita": 16731,
+      "language": "hu",
+      "market_characteristics": {
+        "market_maturity": "medium",
+        "cosmetics_penetration": "75%",
+        "premium_segment_share": "22%"
+      }
+    }
+  }
+}
